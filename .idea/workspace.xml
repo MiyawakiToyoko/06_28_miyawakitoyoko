@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd97a1a7-3c47-41a5-9c4c-3b5e5b8a4316" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QKCW9e8CYUtd3aXF40HKYELq9z" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ColLesson04">
+    <configuration name="ColLesson01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ColLesson01.ColLesson01" />
+      <module name="Camp06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ColLesson01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColLesson02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ColLesson02.ColLesson02" />
+      <module name="Camp06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ColLesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColLesson03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ColLesson03.ColLesson03" />
+      <module name="Camp06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ColLesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColLesson04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ColLesson04.ColLesson04" />
+      <module name="Camp06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ColLesson04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ColLesson04.Ex" />
+      <module name="Camp06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ColLesson04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ColLesson04" />
+        <item itemvalue="Application.Ex" />
+        <item itemvalue="Application.ColLesson03" />
+        <item itemvalue="Application.ColLesson02" />
+        <item itemvalue="Application.ColLesson01 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd97a1a7-3c47-41a5-9c4c-3b5e5b8a4316" name="Default Changelist" comment="" />
+      <created>1567509929434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567509929434</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="i" language="JAVA" />
+        <watch expression="i" />
+        <watch expression="i" language="JAVA" />
+        <watch expression="i" language="JAVA" />
+        <watch expression="i" language="JAVA" />
+        <watch expression="i" language="JAVA" />
+        <watch expression="i" language="JAVA" />
+        <watch expression="i" language="JAVA" />
+        <watch expression="i" language="JAVA" />
+        <watch expression="i" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Camp06$ColLesson01__1_.ic" NAME="ColLesson01 (1) Coverage Results" MODIFIED="1567602879106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.ColLesson01.*</FILTER>
+    </SUITE>
+  </component>
+</project>
